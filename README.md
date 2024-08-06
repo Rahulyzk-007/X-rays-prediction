@@ -8,4 +8,5 @@ The dataset has been compiled from disparate sources from online sites and also 
 The model has been encompassed from Brain Cancer,Chest Pneumonia,Knee Osteoarthritis and Hand Fracture Datsets
 and a Custom Organ classification Model which first predicts what body part is the X-Ray provided,Later Individually classificifying 
 the respective X-ray of body part.
+Finally the Model Interface is Integratred by Streamlit.
 The model has been built simple and perceivable.
